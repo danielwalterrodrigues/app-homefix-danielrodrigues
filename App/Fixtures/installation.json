@@ -1,0 +1,2411 @@
+[
+	{
+		"id": "instala-tv",
+		"title": "Instalação de TV",
+		"description": "Instalamos a sua TV na parede, painel ou móvel com total segurança e comodidade. Nossos técnicos deixam sua experiência em assistir sua TV ainda mais envolvente.",
+		"options": [{
+				"id": "instala-tv-tamanho",
+				"title": "Qual é o tamanho  de sua TV?",
+				"options": [
+					{
+						"id": "instala-tv-42",
+						
+						"title": "Até 42“",
+						"options": [
+							{
+								"id": "instala-tv-42-onde",
+
+								"title": "Sua TV será instalada onde?",
+								"taki": 167,
+								"options": [
+									{
+										"id": "instala-tv-42-onde-movel",
+										"title": "Móvel"
+									},
+									{
+										"id": "instala-tv-42-onde-parede",
+										"title": "Parede",
+										"options": [
+											{
+												"id": "instala-tv-42-onde-parede-suporte",
+												"title": "A parede tem suporte para a instalação?",
+												"options": [
+													{
+														"id": "instala-tv-42-onde-parede-suporte-sim",
+														"title": "Sim"
+													}, 
+													{
+														"id": "instala-tv-42-onde-parede-suporte-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-tv-43",
+						"title": "De 43“ 70“",
+						"options": [
+							{
+								"id": "instala-tv-43-onde",
+
+								"title": "Sua TV será instalada onde?",
+								"taki": 168,
+								"options": [
+									{
+										"id": "instala-tv-43-onde-movel",
+										"title": "Móvel"
+									},
+									{
+										"id": "instala-tv-43-onde-parede",
+										"title": "Parede",
+										"options": [
+											{
+												"id": "instala-tv-43-onde-parede-suporte",
+												"title": "A parede tem suporte para a instalação?",
+												"options": [
+													{
+														"id": "instala-tv-43-onde-parede-suporte-sim",
+														"title": "Sim"
+													}, 
+													{
+														"id": "instala-tv-43-onde-parede-suporte-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-tv-71",
+						"title": "De 71“ 85“",
+						"options": [
+							{
+								"id": "instala-tv-71-onde",
+
+								"title": "Sua TV será instalada onde?",
+								"taki": 169,
+								"options": [
+									{
+										"id": "instala-tv-71-onde-movel",
+										"title": "Móvel"
+									},
+									{
+										"id": "instala-tv-71-onde-parede",
+										"title": "Parede",
+										"options": [
+											{
+												"id": "instala-tv-71-onde-parede-suporte",
+												"title": "A parede tem suporte para a instalação?",
+												"options": [
+													{
+														"id": "instala-tv-71-onde-parede-suporte-sim",
+														"title": "Sim"
+													}, 
+													{
+														"id": "instala-tv-71-onde-parede-suporte-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-hometheather",
+		"title": "Instalação de Home Theather",
+		"taki": 6,
+		"description": "Sua sala irá proporcionar uma experiência cinematográfica envolvente com o melhor do áudio que seu equipamento pode oferecer.",
+		"options": [{
+				"id": "instala-hometheather-modelo",
+				"title": "Qual é a marca do seu produto?",
+				"options": [
+					{
+						"id": "instala-hometheather-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-hometheather-samsung-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-samsung-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-samsung-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-hometheather-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-hometheather-lg-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-lg-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-lg-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-hometheather-philips",
+						"title": "Philips",
+						"options": [
+							{
+								"id": "instala-hometheather-philips-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-philips-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-philips-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-hometheather-sony",
+						"title": "Sony",
+						"options": [
+							{
+								"id": "instala-hometheather-sony-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-sony-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-sony-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-hometheather-philco",
+						"title": "Philco",
+						"options": [
+							{
+								"id": "instala-hometheather-philco-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-philco-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-philco-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-hometheather-outros",
+						"title": "Outros",
+						"options": [
+							{
+								"id": "instala-hometheather-outros-cabos",
+								"title": "Você possui os cabos para a conexão?",
+								"options": [
+									{
+										"id": "instala-hometheather-outros-cabos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-hometheather-outros-cabos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-lavadora-de-roupas",
+		"taki": 9,
+		"title": "Instalação de Lavadora de Roupas",
+		"description": "Instalamos e configuramos todas as funcionalidades que sua lavadora pode oferecer, como lavagem ecológica, temporizador, lavagem programada e trava para crianças.",
+		"options": [{
+				"id": "instala-lavadora-de-roupas-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-lavadora-de-roupas-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-brastemp-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-brastemp-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					
+					{
+						"id": "instala-lavadora-de-roupas-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-eletrolux-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lavadora-de-roupas-marca-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-samsung-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-samsung-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-samsung-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-samsung-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-samsung-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-samsung-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-samsung-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-samsung-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-samsung-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lavadora-de-roupas-marca-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-lg-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-lg-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-lg-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-lg-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-lg-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-lg-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-lg-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-lg-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-lg-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lavadora-de-roupas-marca-consul",
+						"title": "Consul",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-consul-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-consul-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-consul-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-consul-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-consul-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-consul-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-consul-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-consul-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-consul-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lavadora-de-roupas-marca-outras",
+						"title": "Outras",
+						"options": [
+							{
+								"id": "instala-lavadora-de-roupas-marca-outras-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lavadora-de-roupas-marca-outras-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-outras-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-outras-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-outras-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lavadora-de-roupas-marca-outras-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lavadora-de-roupas-marca-outras-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lavadora-de-roupas-marca-outras-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lavadora-de-roupas-marca-outras-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					} 
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-secadora",
+		"taki": 10,
+		"title": "Instalação de Secadora",
+		"description": "Sua secadora pode ser muito mais eficiente! Nossos técnicos instalam e configuram sua secadora para que ela funcione de forma econômica e segura.",
+		"options": [{
+				"id": "instala-secadora-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-secadora-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-secadora-marca-brastemp-tomadatrespinos",
+								"title": "Possui tomada de 3 pinos adequada para o produto?",
+								"options": [
+									{
+										"id": "instala-secadora-marca-brastemp-tomadatrespinos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-secadora-marca-brastemp-tomadatrespinos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}, 
+					
+					{
+						"id": "instala-secadora-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-secadora-marca-eletrolux-tomadatrespinos",
+								"title": "Possui tomada de 3 pinos adequada para o produto?",
+								"options": [
+									{
+										"id": "instala-secadora-marca-eletrolux-tomadatrespinos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-secadora-marca-eletrolux-tomadatrespinos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-secadora-marca-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-secadora-marca-samsung-tomadatrespinos",
+								"title": "Possui tomada de 3 pinos adequada para o produto?",
+								"options": [
+									{
+										"id": "instala-secadora-marca-samsung-tomadatrespinos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-secadora-marca-samsung-tomadatrespinos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-secadora-marca-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-secadora-marca-lg-tomadatrespinos",
+								"title": "Possui tomada de 3 pinos adequada para o produto?",
+								"options": [
+									{
+										"id": "instala-secadora-marca-lg-tomadatrespinos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-secadora-marca-lg-tomadatrespinos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-secadora-marca-outras",
+						"title": "Outras",
+						"options": [
+							{
+								"id": "instala-secadora-marca-outras-tomadatrespinos",
+								"title": "Possui tomada de 3 pinos adequada para o produto?",
+								"options": [
+									{
+										"id": "instala-secadora-marca-outras-tomadatrespinos-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-secadora-marca-outras-tomadatrespinos-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					} 
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-lava-e-seca",
+		"taki": 10,
+		"title": "Instalação de Lava e Seca",
+		"description": "Instalamos e configuramos todas as funcionalidades que sua lava e seca pode oferecer, como lavagem ecológica, temporizador, lavagem programada e trava para crianças.",
+		"options": [{
+				"id": "instala-lava-e-seca-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-lava-e-seca-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-brastemp-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-brastemp-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-brastemp-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-brastemp-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-brastemp-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-brastemp-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-brastemp-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-brastemp-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-brastemp-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					
+					{
+						"id": "instala-lava-e-seca-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-eletrolux-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-eletrolux-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-eletrolux-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-eletrolux-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-eletrolux-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-eletrolux-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-eletrolux-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-eletrolux-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-eletrolux-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lava-e-seca-marca-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-samsung-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-samsung-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-samsung-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-samsung-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-samsung-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-samsung-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-samsung-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-samsung-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-samsung-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lava-e-seca-marca-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-lg-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-lg-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-lg-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-lg-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-lg-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-lg-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-lg-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-lg-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-lg-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lava-e-seca-marca-consul",
+						"title": "Consul",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-consul-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-consul-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-consul-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-consul-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-consul-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-consul-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-consul-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-consul-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-consul-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}, 
+					{
+						"id": "instala-lava-e-seca-marca-outras",
+						"title": "Outras",
+						"options": [
+							{
+								"id": "instala-lava-e-seca-marca-outras-torneira",
+								"title": "Possui torneira e local para escoamento de água?",
+								"options": [
+									{
+										"id": "instala-lava-e-seca-marca-outras-torneira-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-outras-torneira-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-outras-torneira-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-outras-torneira-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-lava-e-seca-marca-outras-torneira-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-lava-e-seca-marca-outras-torneira-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-lava-e-seca-marca-outras-torneira-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-lava-e-seca-marca-outras-torneira-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					} 
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-forno-eletrico",
+		"taki": 151,
+		"title": "Instalação de Forno Elétrico",
+		"description": "Prepare seus pratos favoritos com mais tranquilidade e segurança! Instalamos seu forno elétrico da maneira correta para você se preocupar apenas com as receitas.",
+		"options": [{
+				"id": "instala-forno-eletrico-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-forno-eletrico-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-forno-eletrico-marca-brastemp-nicho",
+								"title": "Possui nicho pronto para a instalação?",
+								"options": [
+									{
+										"id": "instala-forno-eletrico-marca-brastemp-nicho-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-forno-eletrico-marca-brastemp-nicho-sim-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-forno-eletrico-marca-brastemp-nicho-sim-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-forno-eletrico-marca-brastemp-nicho-sim-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-forno-eletrico-marca-brastemp-nicho-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-forno-eletrico-marca-brastemp-nicho-nao-tomadatrespinos",
+												"title": "Possui tomada de 3 pinos adequada para o produto?",
+												"options": [
+													{
+														"id": "instala-forno-eletrico-marca-brastemp-nicho-nao-tomadatrespinos-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-forno-eletrico-marca-brastemp-nicho-nao-tomadatrespinos-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-fogao",
+		"taki": 8,
+		"title": "Instalação de Fogão",
+		"description": "Instalamos e ajustamos seu fogão para que tudo funcione como deve! Regulamos a altura das chamas, iluminação interna e ascendimento automático.",
+		"options": [{
+				"id": "instala-fogao-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-fogao-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-fogao-marca-brastemp-gas",
+								"title": "Qual o tipo de gás de sua residência?",
+								"options": [
+									{
+										"id": "instala-fogao-marca-brastemp-gas-encanado",
+										"title": "Encanado",
+										"options": [
+											{
+												"id": "instala-fogao-marca-brastemp-gas-encanado-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-brastemp-gas-encanado-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-brastemp-gas-encanado-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-fogao-marca-brastemp-gas-botijao",
+										"title": "De botijão",
+										"options": [
+											{
+												"id": "instala-fogao-marca-brastemp-gas-botijao-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-brastemp-gas-botijao-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-brastemp-gas-botijao-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-fogao-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-fogao-marca-eletrolux-gas",
+								"title": "Qual o tipo de gás de sua residência?",
+								"options": [
+									{
+										"id": "instala-fogao-marca-eletrolux-gas-encanado",
+										"title": "Encanado",
+										"options": [
+											{
+												"id": "instala-fogao-marca-eletrolux-gas-encanado-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-eletrolux-gas-encanado-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-eletrolux-gas-encanado-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-fogao-marca-eletrolux-gas-botijao",
+										"title": "De botijão",
+										"options": [
+											{
+												"id": "instala-fogao-marca-eletrolux-gas-botijao-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-eletrolux-gas-botijao-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-eletrolux-gas-botijao-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-fogao-marca-esmaltec",
+						"title": "Esmaltec",
+						"options": [
+							{
+								"id": "instala-fogao-marca-esmaltec-gas",
+								"title": "Qual o tipo de gás de sua residência?",
+								"options": [
+									{
+										"id": "instala-fogao-marca-esmaltec-gas-encanado",
+										"title": "Encanado",
+										"options": [
+											{
+												"id": "instala-fogao-marca-esmaltec-gas-encanado-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-esmaltec-gas-encanado-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-esmaltec-gas-encanado-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-fogao-marca-esmaltec-gas-botijao",
+										"title": "De botijão",
+										"options": [
+											{
+												"id": "instala-fogao-marca-esmaltec-gas-botijao-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-esmaltec-gas-botijao-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-esmaltec-gas-botijao-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-fogao-marca-atlas",
+						"title": "Atlas",
+						"options": [
+							{
+								"id": "instala-fogao-marca-atlas-gas",
+								"title": "Qual o tipo de gás de sua residência?",
+								"options": [
+									{
+										"id": "instala-fogao-marca-atlas-gas-encanado",
+										"title": "Encanado",
+										"options": [
+											{
+												"id": "instala-fogao-marca-atlas-gas-encanado-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-atlas-gas-encanado-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-atlas-gas-encanado-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-fogao-marca-atlas-gas-botijao",
+										"title": "De botijão",
+										"options": [
+											{
+												"id": "instala-fogao-marca-atlas-gas-botijao-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-atlas-gas-botijao-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-atlas-gas-botijao-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-fogao-marca-outros",
+						"title": "Outros",
+						"options": [
+							{
+								"id": "instala-fogao-marca-outros-gas",
+								"title": "Qual o tipo de gás de sua residência?",
+								"options": [
+									{
+										"id": "instala-fogao-marca-outros-gas-encanado",
+										"title": "Encanado",
+										"options": [
+											{
+												"id": "instala-fogao-marca-outros-gas-encanado-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-outros-gas-encanado-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-outros-gas-encanado-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-fogao-marca-outros-gas-botijao",
+										"title": "De botijão",
+										"options": [
+											{
+												"id": "instala-fogao-marca-outros-gas-botijao-acessorios",
+												"title": "Possui a mangueira, registro e demais acessórios para instalação?",
+												"options": [
+													{
+														"id": "instala-fogao-marca-outros-gas-botijao-acessorios-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-fogao-marca-outros-gas-botijao-acessorios-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-coifa-parede",
+		"taki": 23,
+		"title": "Instalação de Coifa de Parede",
+		"description": "Nada de fumaça, gordura e o mau odor na sua cozinha! Instalamos, calibramos e configuramos as funcionalidades, como a detecção de fumaça e sucção automática.",
+		"options": [{
+				"id": "instala-coifa-parede-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-coifa-parede-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-coifa-parede-marca-brastemp-modo-instalacao",
+								"title": "Qual o modo de instalação?",
+								"options": [
+									{
+										"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-exaustor",
+										"title": "Exaustor",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-depurador",
+										"title": "Depurador",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-depurador-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-depurador-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-brastemp-modo-instalacao-depurador-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-coifa-parede-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao",
+								"title": "Qual o modo de instalação?",
+								"options": [
+									{
+										"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-exaustor",
+										"title": "Exaustor",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-depurador",
+										"title": "Depurador",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-depurador-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-depurador-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-eletrolux-modo-instalacao-depurador-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-coifa-parede-marca-consul",
+						"title": "consul",
+						"options": [
+							{
+								"id": "instala-coifa-parede-marca-consul-modo-instalacao",
+								"title": "Qual o modo de instalação?",
+								"options": [
+									{
+										"id": "instala-coifa-parede-marca-consul-modo-instalacao-exaustor",
+										"title": "Exaustor",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-consul-modo-instalacao-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-consul-modo-instalacao-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-consul-modo-instalacao-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-coifa-parede-marca-consul-modo-instalacao-depurador",
+										"title": "Depurador",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-consul-modo-instalacao-depurador-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-consul-modo-instalacao-depurador-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-consul-modo-instalacao-depurador-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-coifa-parede-marca-outras",
+						"title": "outras",
+						"options": [
+							{
+								"id": "instala-coifa-parede-marca-outras-modo-instalacao",
+								"title": "Qual o modo de instalação?",
+								"options": [
+									{
+										"id": "instala-coifa-parede-marca-outras-modo-instalacao-exaustor",
+										"title": "Exaustor",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-outras-modo-instalacao-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-outras-modo-instalacao-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-outras-modo-instalacao-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-coifa-parede-marca-outras-modo-instalacao-depurador",
+										"title": "Depurador",
+										"options": [
+											{
+												"id": "instala-coifa-parede-marca-outras-modo-instalacao-depurador-local-preparado",
+												"title": "O local está preparado para a instalação?",
+												"options": [
+													{
+														"id": "instala-coifa-parede-marca-outras-modo-instalacao-depurador-local-preparado-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-coifa-parede-marca-outras-modo-instalacao-depurador-local-preparado-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-depurador",
+		"taki": 164,
+		"title": "Instalação de Depurador",
+		"description": "Nada de fumaça, gordura e o mau odor na sua cozinha! Instalamos, calibramos e configuramos as funcionalidades, como a detecção de fumaça e sucção automática.",
+		"options": [{
+				"id": "instala-depurador-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-depurador-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+			
+							{
+								"id": "instala-depurador-marca-brastemp-modo-instalacao-local-preparado",
+								"title": "O local está preparado para a instalação?",
+								"options": [
+									{
+										"id": "instala-depurador-marca-brastemp-modo-instalacao-local-preparado-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-depurador-marca-brastemp-modo-instalacao-local-preparado-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-depurador-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+			
+							{
+								"id": "instala-depurador-marca-eletrolux-modo-instalacao-local-preparado",
+								"title": "O local está preparado para a instalação?",
+								"options": [
+									{
+										"id": "instala-depurador-marca-eletrolux-modo-instalacao-local-preparado-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-depurador-marca-eletrolux-modo-instalacao-local-preparado-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-depurador-marca-consul",
+						"title": "consul",
+						"options": [
+			
+							{
+								"id": "instala-depurador-marca-consul-modo-instalacao-local-preparado",
+								"title": "O local está preparado para a instalação?",
+								"options": [
+									{
+										"id": "instala-depurador-marca-consul-modo-instalacao-local-preparado-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-depurador-marca-consul-modo-instalacao-local-preparado-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-depurador-marca-outras",
+						"title": "outras",
+						"options": [
+			
+							{
+								"id": "instala-depurador-marca-outras-modo-instalacao-local-preparado",
+								"title": "O local está preparado para a instalação?",
+								"options": [
+									{
+										"id": "instala-depurador-marca-outras-modo-instalacao-local-preparado-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-depurador-marca-outras-modo-instalacao-local-preparado-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-purificador-de-agua",
+		"taki": 88,
+		"title": "Instalação de Purificador de água",
+		"description": "A qualidade da água que sua família bebe é muito importante! Fixamos seu purificador, instalamos o filtro e regulamos a tubulação do seu purificador.",
+		"options": [{
+				"id": "instala-purificador-de-agua-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-purificador-de-agua-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+			
+							{
+								"id": "instala-purificador-de-agua-marca-brastemp-saida-de-agua",
+								"title": "Existe uma saída de água para a instalação?",
+								"options": [
+									{
+										"id": "instala-purificador-de-agua-marca-brastemp-saida-de-agua-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-purificador-de-agua-marca-brastemp-saida-de-agua-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-purificador-de-agua-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+			
+							{
+								"id": "instala-purificador-de-agua-marca-eletrolux-saida-de-agua",
+								"title": "Existe uma saída de água para a instalação?",
+								"options": [
+									{
+										"id": "instala-purificador-de-agua-marca-eletrolux-saida-de-agua-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-purificador-de-agua-marca-eletrolux-saida-de-agua-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-purificador-de-agua-marca-outras",
+						"title": "outras",
+						"options": [
+			
+							{
+								"id": "instala-purificador-de-agua-marca-outras-saida-de-agua",
+								"title": "Existe uma saída de água para a instalação?",
+								"options": [
+									{
+										"id": "instala-purificador-de-agua-marca-outras-saida-de-agua-sim",
+										"title": "Sim"
+									},
+									{
+										"id": "instala-purificador-de-agua-marca-outras-saida-de-agua-nao",
+										"title": "Não"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-refrigerador",
+		"taki": 7,
+		"title": "Instalação de Refrigerador",
+		"description": "Esfrie a cabeça! Além da instalação nós cuidamos dos ajustes e configuração das conexões, iluminação interna, temporizador e descongelamento automático.",
+		"options": [{
+				"id": "instala-refrigerador-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-refrigerador-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-brastemp-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-brastemp-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-brastemp-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-refrigerador-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-eletrolux-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-eletrolux-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-eletrolux-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-refrigerador-marca-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-samsung-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-samsung-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-samsung-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-samsung-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-refrigerador-marca-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-lg-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-lg-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-lg-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-lg-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-refrigerador-marca-consul",
+						"title": "Consul",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-consul-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-consul-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-consul-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-consul-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-refrigerador-marca-outras",
+						"title": "Outras",
+						"options": [
+							{
+								"id": "instala-refrigerador-marca-outras-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-refrigerador-marca-outras-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-refrigerador-marca-outras-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-refrigerador-marca-outras-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+
+				]
+			}
+		]
+	},
+	{
+		"id": "instala-side-by-side",
+		"taki": 25,
+		"title": "Instalação de side-by-side",
+		"description": "Esfrie a cabeça! Além da instalação nós cuidamos dos ajustes e configuração das conexões, iluminação interna, temporizador e descongelamento automático.",
+		"options": [{
+				"id": "instala-side-by-side-marca",
+				"title": "Qual é a marca do produto?",
+				"options": [
+					{
+						"id": "instala-side-by-side-marca-brastemp",
+						"title": "Brastemp",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-brastemp-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-brastemp-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-brastemp-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-side-by-side-marca-eletrolux",
+						"title": "Eletrolux",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-eletrolux-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-eletrolux-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-eletrolux-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-side-by-side-marca-samsung",
+						"title": "Samsung",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-samsung-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-samsung-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-samsung-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-samsung-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-side-by-side-marca-lg",
+						"title": "LG",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-lg-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-lg-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-lg-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-lg-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-side-by-side-marca-consul",
+						"title": "Consul",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-consul-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-consul-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-consul-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-consul-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "instala-side-by-side-marca-outras",
+						"title": "Outras",
+						"options": [
+							{
+								"id": "instala-side-by-side-marca-outras-produto-no-local",
+								"title": "O produto já está no local para a instalação?",
+								"options": [
+									{
+										"id": "instala-side-by-side-marca-outras-produto-no-local-sim",
+										"title": "Sim",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									},
+									{
+										"id": "instala-side-by-side-marca-outras-produto-no-local-nao",
+										"title": "Não",
+										"options": [
+											{
+												"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta",
+												"title": "O tamanho do produto permite que passe pelas portas de acesso do local?",
+												"options": [
+													{
+														"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta-sim",
+														"title": "Sim"
+													},
+													{
+														"id": "instala-side-by-side-marca-outras-produto-no-local-sim-passa-pela-porta-nao",
+														"title": "Não"
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

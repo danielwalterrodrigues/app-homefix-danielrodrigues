@@ -1,0 +1,325 @@
+Abaixo algumas anotações sobre ambiente:
+
+ 
+
+Requisitos de sistema para o aplicativo Vivo Homefix
+
+ 
+
+IOS: 
+
+NodeJs versão LTS 
+
+Xcode versão 13 (LTS) 
+
+Macos Montrray ou Bigsur  
+
+ 
+
+Abaixo uma documentação com exemplo de instalação ios 
+
+https://react-native.rocketseat.dev/ios/macos 
+
+ 
+
+Andoid 
+
+Java JDK versão 11 
+
+Android Studio  
+
+SDK versão 1.8 
+
+NodeJs Versão LTS 
+
+ 
+
+Abaixo uma documentação com exemplo de instalação ios 
+
+https://react-native.rocketseat.dev/android/macos 
+
+ 
+
+Requisitos de Software  
+
+NVM (Node Version Manager)  
+
+  
+
+Instalação:  
+
+  
+
+1- No terminal executar:  
+
+  
+
+1.1 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash  
+
+  
+
+1.2 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"  
+
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  
+
+  
+
+  
+
+Observações:  
+
+- Ele é um gerenciador de versões do NodeJs, então deve ser instalado primeiro  
+
+  
+
+  
+
+  
+
+NodeJs – Versão 12.18.4  
+
+  
+
+Instalação:  
+
+  
+
+1- No terminal executar:  
+
+nvm install 12.18.4  
+
+  
+
+Observações  
+
+- Com o nvm podemos instalar várias versões do NodeJs. Caso queira instalar uma versão diferente é só seguir o passo acima especificando a versão. Para escolher qual versão usar é só executar no terminal: nvm use (versão).  
+
+Por exemplo: nvm use 12  
+
+   
+
+Xcode versão 11_7 
+
+  
+
+Instalação: 
+
+  
+
+1- Acessar o seguinte site e baixar a versão correta: 
+
+https://xcodereleases.com/ 
+
+  
+
+2- O site baixar um zip então tem que extrair o arquivo 
+
+  
+
+3 - Executar apenas clicando no ícone do app 
+
+  
+
+  
+
+Observações: 
+
+Caso a apple não permita rodar o Xcode, tem que se executar os passos a seguir: 
+
+  
+
+1 - Clique no ícone da aplicação com o botão direito e selecione: "Mostrar conteúdo do pacote 
+
+  
+
+2 - Abra a pasta Contents depois a pasta MacOS e clique no arquivo com o nome Xcode 
+
+  
+
+3 - Ele irá abrir um terminal e executar alguns comandos. É só aguardar que a aplicação irá abrir 
+
+  
+
+   
+
+Yarn   
+
+  
+
+Instalação: 
+
+    No terminal, digitar o seguinte comando: 
+     npm i -g corepack 
+
+  
+
+Observações: 
+
+1- Caso não funcione, digitar o seguinte comando no terminal: 
+
+corepack enable 
+
+ 
+ 
+ 
+ 
+
+RODAR O PROJETO 
+
+ 
+
+1 - Acessar com o terminal a pasta do projeto e digitar: 
+
+yarn 
+
+ 
+ 
+
+2 - Rodar com:  
+
+npx react-native run-ios --simulator='iPhone 11'' 
+
+ 
+
+ 
+
+    Requisitos de Software  Android 
+
+ 
+
+ 
+
+NVM (Node Version Manager)  
+
+  
+
+Instalação:  
+
+  
+
+1- No terminal executar:  
+
+  
+
+1.1 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash  
+
+  
+
+1.2 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"  
+
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  
+
+  
+
+  
+
+Observações:  
+
+- Ele é um gerenciador de versões do NodeJs, então deve ser instalado primeiro  
+
+  
+
+  
+
+  
+
+NodeJs – Versão 14.16.1 
+
+  
+
+Instalação:  
+
+  
+
+1- No terminal executar:  
+
+nvm install 12.18.4  
+
+  
+
+Observações  
+
+- Com o nvm podemos instalar várias versões do NodeJs. Caso queira instalar uma versão diferente é só seguir o passo acima especificando a versão. Para escolher qual versão usar é só executar no terminal: nvm use (versão).  
+
+Por exemplo: nvm use 12  
+
+  
+
+ 
+ 
+
+JDK 11 
+
+  
+
+Instalação:  
+
+  
+
+1- Acessar o link e baixar:  
+
+  
+
+https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html 
+
+  
+
+1.2 Clicar no arquivo instalar  
+
+  
+
+1.3 No terminal abrir o arquivo  ~/.zshrc ou o arquivo ~/.bashrc 
+
+  
+
+Se nenhum desses arquivos existir, crie o ~/.bashrc caso utilize o Shell padrão ou ~/.zshrc caso utilize o ZSH. 
+
+  
+
+  
+
+Observações:  
+
+  
+
+A versão tem que ser a 11  
+
+  
+
+  
+
+Android studio 
+
+  
+
+Instalação: 
+
+    Seguir de acordo com o seguinte link: 
+    https://react-native.rocketseat.dev/android/macos#dispositivo-f%C3%ADsico 
+
+  
+
+  
+
+EXECUTAR O APLICATIVO: 
+
+  
+
+1 - Instale as dependências 
+
+2- Abra um emulador android 
+
+3- Execulte: npm run android 
+
+ 
+
+ 
+OBSERVAÇÕES GERAIS: 
+
+  
+
+Esse aplicativo está com uma versão bem antiga o que pode gerar problemas como: não ter mais suporte para desenvolvimento, não funcionar em celulares com versões mais novas e ou parar de funcionar inesperadamente 
+
+Ao acessarmos o terminal com a versão 11 do XCODE podemos ver o aviso da Apple sobre essa questão. 
+
+ 

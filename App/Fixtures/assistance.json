@@ -1,0 +1,162 @@
+[{
+	"id": "chaveiro",
+	"taki": 142,
+	"title": "Chaveiro",
+	"description": "Profissional para conserto definitivo ou provisório da porta de acesso à residência ou confecção de chave, conforme evento ocorrido.",
+	"options": [
+		{
+			"id": "chaveiro-problemas-porta-acesso-residencia",
+			"title": "O problema é na porta de acesso à residência?",
+			"options": [
+				{
+					"id": "chaveiro-problemas-porta-acesso-residencia-sim",
+					"title": "Sim",
+					"options": [
+						{
+							"id": "chaveiro-problemas-porta-acesso-residencia-sim-impossibilitado-entrar-sair",
+							"title": "Está impossibilitado de entrar ou sair?",
+							"options": [
+								{
+									"id": "chaveiro-problemas-porta-acesso-residencia-sim-impossibilitado-entrar-sair-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "chaveiro-problemas-porta-acesso-residencia-sim-impossibilitado-entrar-sair-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "chaveiro-problemas-porta-acesso-residencia-nao",
+					"title": "Não",
+					"options": [
+						{
+							"id": "chaveiro-problemas-porta-acesso-residencia-nao-impossibilitado-entrar-sair",
+							"title": "Está impossibilitado de entrar ou sair?",
+							"options": [
+								{
+									"id": "chaveiro-problemas-porta-acesso-residencia-nao-impossibilitado-entrar-sair-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "chaveiro-problemas-porta-acesso-residencia-nao-impossibilitado-entrar-sair-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+},
+{
+	"id": "encanador",
+	"taki": 136,
+	"title": "Encanador",
+	"description": "Envio de encanador para resolver problemas de vazamentos em tubulações aparentes ou solucionar problemas que possam acarretar risco de alagamento na residência, conforme evento ocorrido.",
+	"options": [
+		{
+			"id": "encanador-vazamento-aparente",
+			"title": "Existe algum vazamento aparente?",
+			"options": [
+				{
+					"id": "encanador-vazamento-aparente-sim",
+					"title": "Sim",
+					"options": [
+						{
+							"id": "encanador-vazamento-aparente-sim-problema-aparente",
+							"title": "Algum problema com torneira, chuveiro ou algum dispositivo aparente?",
+							"options": [
+								{
+									"id": "encanador-vazamento-aparente-sim-problema-aparente-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "encanador-vazamento-aparente-sim-problema-aparente-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "encanador-vazamento-aparente-nao",
+					"title": "Não",
+					"options": [
+						{
+							"id": "encanador-vazamento-aparente-nao-problema-aparente",
+							"title": "Algum problema com torneira, chuveiro ou algum dispositivo aparente?",
+							"options": [
+								{
+									"id": "encanador-vazamento-aparente-nao-problema-aparente-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "encanador-vazamento-aparente-nao-problema-aparente-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+},
+{
+	"id": "eletricista",
+	"taki": 138,
+	"title": "Eletricista",
+	"description": "Eletricista para realizar reparos necessários para o restabelecimento da energia elétrica ou para solucionar problemas elétricos, conforme evento ocorrido.",
+	"options": [
+		{
+			"id": "eletricista-sem-luz",
+			"title": "Está sem luz no local?",
+			"options": [
+				{
+					"id": "eletricista-sem-luz-sim",
+					"title": "Sim",
+					"options": [
+						{
+							"id": "eletricista-sem-luz-sim-curto-circuito",
+							"title": "Existe algum curto circuíto (faísca ou clarão) no local?",
+							"options": [
+								{
+									"id": "eletricista-sem-luz-sim-curto-circuito-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "eletricista-sem-luz-sim-curto-circuito-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "eletricista-sem-luz-nao",
+					"title": "Não",
+					"options": [
+						{
+							"id": "eletricista-sem-luz-nao-curto-circuito",
+							"title": "Existe algum curto circuíto (faísca ou clarão) no local?",
+							"options": [
+								{
+									"id": "eletricista-sem-luz-nao-curto-circuito-sim",
+									"title": "Sim"
+								}, 
+								{
+									"id": "eletricista-sem-luz-nao-curto-circuito-nao",
+									"title": "Não"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}]

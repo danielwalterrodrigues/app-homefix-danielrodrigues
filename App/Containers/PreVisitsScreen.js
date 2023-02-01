@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import { ScrollView, Text, View, TouchableHighlight, TextInput, AsyncStorage , Keyboard, KeyboardAvoidingView} from 'react-native'
+import { ScrollView, Text, View, TouchableHighlight, TextInput, Keyboard, KeyboardAvoidingView} from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { connect } from 'react-redux'
 import Spinner from '../Components/Spinner';
 import { NavigationActions } from 'react-navigation';

@@ -12,7 +12,7 @@
 
 import { call, put } from 'redux-saga/effects'
 import VisitsActions from '../Redux/VisitsRedux'
-import {AsyncStorage} from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 // import { VisitsSelectors } from '../Redux/VisitsRedux'
 import { NavigationActions } from 'react-navigation'
 import Moment from 'moment'

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { ScrollView, Text, View, AsyncStorage, RefreshControl } from 'react-native'
+import { ScrollView, Text, View, RefreshControl } from 'react-native'
 import { connect } from 'react-redux'
 import SplashScreen from 'react-native-splash-screen'
 import PropTypes from 'prop-types';

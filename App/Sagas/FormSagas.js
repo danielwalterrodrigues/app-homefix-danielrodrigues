@@ -16,7 +16,7 @@ import HomeActions from '../Redux/HomeRedux'
 import HomeInstallationActions from '../Redux/HomeInstallationRedux'
 
 import { NavigationActions } from 'react-navigation';
-import { AsyncStorage } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import _ from 'lodash'
 import Moment from 'moment'
 // import { FormSelectors } from '../Redux/FormRedux'

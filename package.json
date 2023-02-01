@@ -31,6 +31,7 @@
     "git-hook": "npm run lint -s && npm run test -s"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
     "apisauce": "^0.14.3",
     "assign-deep": "^0.4.5",
     "format-json": "^1.0.3",
@@ -48,6 +49,7 @@
     "react-native-calendars": "^1.19.3",
     "react-native-collapsible": "^0.10.0",
     "react-native-config": "^0.10.0",
+    "react-native-eject": "^0.2.0",
     "react-native-elements": "^0.19.1",
     "react-native-iphone-x-helper": "^1.0.3",
     "react-native-popup-dialog": "^0.16.5",

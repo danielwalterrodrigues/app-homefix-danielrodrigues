@@ -1,7 +1,7 @@
 // a library to wrap and simplify api calls
 import apisauce from 'apisauce'
 import moment from 'moment';
-import {AsyncStorage} from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import Token from './token';
 
 // const takiURL = 'https://webservice.cdf.net:8443/IntegracaoTakiWS/'; //TAKI homolog

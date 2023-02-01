@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 import { Provider } from 'react-redux'
 import RootContainer from './RootContainer'
 import createStore from '../Redux'
-import {  AsyncStorage } from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 // create our store
 const store = createStore()
 // AsyncStorage.clear();

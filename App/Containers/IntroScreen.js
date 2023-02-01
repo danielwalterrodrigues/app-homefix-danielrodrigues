@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
-import { ScrollView, Text, View, AsyncStorage } from 'react-native'
+import { ScrollView, Text, View } from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { connect } from 'react-redux'
 import PropTypes from 'prop-types';
 

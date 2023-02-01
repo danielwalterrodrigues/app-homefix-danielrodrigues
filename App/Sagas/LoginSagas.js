@@ -1,6 +1,6 @@
 import { put, call } from 'redux-saga/effects'
 import LoginActions from '../Redux/LoginRedux'
-import { AsyncStorage } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { NavigationActions } from 'react-navigation';
 // attempts to login

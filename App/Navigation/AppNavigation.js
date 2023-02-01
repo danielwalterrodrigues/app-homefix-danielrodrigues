@@ -1,5 +1,5 @@
 import React from 'react'
-import { AsyncStorage } from 'react-native'
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { StackNavigator, TabNavigator, TabBarBottom, TabView, SwitchNavigator } from 'react-navigation'
 import SuccessScreen from '../Containers/SuccessScreen'
 
